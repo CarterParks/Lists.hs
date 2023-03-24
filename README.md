@@ -13,7 +13,8 @@ Run the precompiled binary with
 ```
 
 # Compilation
-`Main.hs` can be compiled by following the instructions at [https://www.haskell.org/get-started/]
+`Main.hs` can be compiled by following the instructions at https://www.haskell.org/get-started/
+
 If you already have GHC installed, run
 ```
 ghc -no-keep-hi-files -no-keep-o-files ./Main.hs
